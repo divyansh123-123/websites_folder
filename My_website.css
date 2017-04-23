@@ -1,0 +1,25 @@
+font-family: 'Roboto', sans-serif;
+
+li {
+	float: center;
+	display: inline;
+}
+
+a {
+	display: block;
+	padding: 6px;
+	color: white;
+	background-color: black;
+}
+
+ul {list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+   
